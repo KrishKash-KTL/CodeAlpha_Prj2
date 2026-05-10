@@ -12,7 +12,8 @@ This project is part of my **Artificial Intelligence Internship at CodeAlpha**. 
 - **Computer Vision:** OpenCV
 - **Deep Learning Model:** Ultralytics YOLOv8
 
-## 📋 How to Run
-1. Install dependencies:
+## 📋 How to Run 
+Install dependencies:
    ```bash
    pip install ultralytics opencv-python
+   python object_detection.py
